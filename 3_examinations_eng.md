@@ -12,7 +12,7 @@
 
  The blood test is a convenient and necessary way to check the state of the pancreas. In many cases, the blood test is the fastest method to detect pancreas disease.  
 
-###Amylase
+### Amylase
 
  The most popular test item in the blood test is amylase (often abbreviated as AMY), but amylase can have a margin of inaccuracy. For instance, amylase has 91.7-100% sensitivity to acute pancreatitis in spite of severe symptoms. So, there is a chance that acute pancreatitis might be overlooked. In our patients, many people who have high lipase or trypsin ( which I will be explaining later) have no abnormality with amylase.  
 
