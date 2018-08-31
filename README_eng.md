@@ -7,3 +7,5 @@
  How to take care of weak pancreas is very simple.
 
 1. [Symptoms of weak pancreas](1_symptoms_eng.md)
+3. [Examinations](3_examinations_eng.md)
+5. [Life Therapy](5_life_therapy_eng.md)
