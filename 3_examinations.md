@@ -73,7 +73,22 @@ P型は膵疾患で高くなり、S型は唾液腺関連で高くなります。
 
 ## 腹部エコー
 
+　簡便で安全に施行できるため、腹部エコー（超音波検査）は必須の検査となります。  
+弱点として、胃腸の中のガスや、脂肪で見づらくなることが挙げられます。  
+保険診療で腹部エコーを受ける場合、３割負担で1700円程度の料金であり、膵臓の以外にも、胆嚢、肝臓、脾臓、腎臓などもチェックできるため、非常にお得な検査でもあります。  
+１cm以下の腫瘍の描出率は50％、３cm以上であれば95.8％と報告されています。  
+[Sharma C, Eltawil KM, Renfrew PD, et al. Advances in diagnosis, treatment and palliation of pancreatic carcinoma:1990-2010.WorldJGastroenterol 2011;17:867-97.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051138/)  
+
 ## MRCP
+
+　MRCPはMRIの撮り方の一つで、胆嚢、膵臓、総胆管などがよく見えます。  
+特に膵管（膵臓の中の管）の異常や、膵臓の奇形などを診断するのに非常に有用です。  
+近年の画質向上により、かなり診断性能が上がっていて、膵癌に対する感度は95%、特異度は82%と報告されています。※  
+なお、保険診療では、何か異常がないとMRCPを行うことができません。  
+CTと違い、被曝がないため気軽に受けられますが、30分程度、うるさくて狭いトンネルのようなところに入らなければならず、閉所恐怖症の方には辛い検査となります。  
+（Open MRIという比較的空間の広いMRIもありますが、画質は落ちてしまいます。）  
+　  
+※[Lopez Hanninen E, Amthauer H, Hosten N, Ricke J, Bohmig M, Langrehr J, Hintze R, Neuhaus P, Wiedenmann B, Rosewicz S, Felix R. Prospective evaluation of pancreatic tumors：accuracy of MR imaging with MR cholangiopancreatography and MR angiography. Radiology 2002；224：34-41.](https://www.ncbi.nlm.nih.gov/pubmed/12091659)  
 
 ## 造影CT
 
