@@ -28,7 +28,7 @@
 
 
 1. [こんな症状ありませんか](1_symptoms.md)
-1. お手軽セルフチェック
+1. [お手軽セルフチェック](2_selfcheck.md)
 1. [おすすめの検査](3_examinations.md)
 1. [紛らわしい病気](4_confusing.md)
 1. [生活療法が基本](5_life_therapy.md)
