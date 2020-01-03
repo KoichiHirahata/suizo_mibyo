@@ -43,7 +43,35 @@ However, if the imaging tests (e.g., ultrasound test) indicate none- abnormality
 
 ### Trypsin
 
- Trypsin is also a highly credible examination, but the cost of trypsin is higher than lipase.  
+Trypsin is also a highly credible examination, but the cost of trypsin is higher than lipase.  
 So, we undergo this examination only for patients who need a precise check.  
+
+### Elastase 1
+
+Elastase 1 rises with pancreatitis and pancreatic cancer. We undergo this examination only for patients who have high-level lipase or trypsin.
+
+### CA19-9
+
+CA19-9 is popular tumor marker.  Unfortunately,  this examination is unreliable and can lead to unnecessary worries.  
+We only undergo this examination for patients who have high-level lipase or trypsin.
+
+---
+
+## Abdominal Ultrasound
+
+Abdominal ultrasound is essential due to its convenience and safety. Its weakness is in the visualization of organs when there are too much fat or intestine gas. Abdominal ultrasound is very cost-effective because it can check out not only pancreas but gallbladder, liver, spleen, and kidneys.  
+Pancreatic cancers measuring less than 1 cm are detected by ultrasound in only 50% of cases, while the sensitivity increases to 95.8% for tumors larger than 3 cm. (*1)  
+[*1 Sharma C, Eltawil KM, Renfrew PD, et al. Advances in diagnosis, treatment and palliation of pancreatic carcinoma:1990-2010.WorldJGastroenterol 2011;17:867-97.]
+
+## MRCP
+
+MRCP(Magnetic resonance cholangiopancreatography) is a technique of MRI for checking up pancreas, gallbladder, bile duct. Especially, it is very useful for viewing abnormality of the pancreatic duct and deformation of the pancreas. In recent years, the imaging quality and diagnostic performance improved significantly. It is reported that sensitivity is 95% and specificity is 82% for diagnosing pancreatic cancer.*  
+Compared to CAT scan, MRI does not cause radiation exposure, but it makes loud noise and patients will be rolled into a narrow tunnel for about 30 minutes, so people who have claustrophobia may feel arduous.  
+\* Lopez Hanninen E, Amthauer H, Hosten N, Ricke J, Bohmig M, Langrehr J, Hintze R, Neuhaus P, Wiedenmann B, Rosewicz S, Felix R. Prospective evaluation of pancreatic tumors：accuracy of MR imaging with MR cholangiopancreatography and MR angiography. Radiology 2002；224：34-41.
+
+## Contrast-enhanced CT scan
+
+A contrast-enhanced CT scan may better than MRCP when it used for detecting small tumors. Its sensitivity is 85 - 100%, and specificity is 82 - 92%. A plain CT cannot detect pancreatic cancer in many cases so that Japan Pancreas Society do not recommend plain CT for detecting pancreatic cancers.  
+Demerits of contrast-enhanced CT scan is radiation exposure and risk of side effect of contrast agent. The incidence rate of contrast agent side effects is about 3%. Serious side effect (e.x. shock, cardiac arrest, dyspnea) incidence rate is 0.04 - 0.004%.
 
 [Index](README_eng.md)
