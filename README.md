@@ -32,7 +32,7 @@
 1. [おすすめの検査](3_examinations.md)
 1. [紛らわしい病気](4_confusing.md)
 1. [生活療法が基本](5_life_therapy.md)
-1. お酒がなかなかやめられない
+1. [お酒がなかなかやめられない](6_alcohol.md)
 1. 貯めよう膵臓貯金
 1. [薬物療法](8_medication.md)
 1. [どう活かすか　結果的に元気で長生きできる](9_get_along_with_pancreas.md)
